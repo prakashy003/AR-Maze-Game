@@ -89,22 +89,6 @@ An immersive **Augmented Reality (AR) maze game** that combines 3D game design w
 
 ---
 
-## 📁 Project Structure
-
-```
-AR-Maze-Game/
-├── AR Maze.apk              # Compiled Android application
-├── README.md                # Project documentation
-├── assets/                  # Media files
-│   ├── Img.jpg             # Gameplay screenshot
-│   ├── Img_1.jpg           # 3D maze design showcase
-│   ├── Img_2.jpg           # UI/gameplay screenshot
-│   └── Video demo.mp4      # Full gameplay demonstration
-└── .git/                   # Version control
-```
-
----
-
 ## 🔧 Development Details
 
 ### Dependencies
