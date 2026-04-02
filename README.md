@@ -18,7 +18,7 @@ An immersive **Augmented Reality (AR) maze game** that combines 3D game design w
 
 ### 📸 Game Preview
 
-![AR Maze Game - 3D Maze Design](Img_1.jpg)
+![AR Maze Game - 3D Maze Design](assets/Img_1.jpg)
 
 *3D maze environment with physics-enabled ball navigation in Unity Editor*
 
@@ -85,7 +85,23 @@ An immersive **Augmented Reality (AR) maze game** that combines 3D game design w
 ## 🎬 Media & Demos
 
 - **APK Application**: [AR Maze.apk](AR%20Maze.apk) - Ready to install on Android devices
-- **Video Demo**: [Video demo.mp4](Video%20demo.mp4) - Full gameplay demonstration
+- **Video Demo**: [Video demo.mp4](assets/Video%20demo.mp4) - Full gameplay demonstration
+
+---
+
+## 📁 Project Structure
+
+```
+AR-Maze-Game/
+├── AR Maze.apk              # Compiled Android application
+├── README.md                # Project documentation
+├── assets/                  # Media files
+│   ├── Img.jpg             # Gameplay screenshot
+│   ├── Img_1.jpg           # 3D maze design showcase
+│   ├── Img_2.jpg           # UI/gameplay screenshot
+│   └── Video demo.mp4      # Full gameplay demonstration
+└── .git/                   # Version control
+```
 
 ---
 
