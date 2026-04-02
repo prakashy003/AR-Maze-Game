@@ -45,23 +45,29 @@ An immersive **Augmented Reality (AR) maze game** that combines 3D game design w
 ### Installation Steps
 
 1. **Download the APK**
-   ```bash
-   # Download AR Maze.apk from the repository
-   ```
+   - Visit the [Releases Page](https://github.com/prakashy003/AR-Maze-Game/releases)
+   - Download the latest `AR Maze.apk` file from the release assets
+   - Save it to your Android device
 
-2. **Install on Android Device**
-   - Transfer the APK file to your Android device
-   - Navigate to Settings → Security → Enable "Unknown Sources"
-   - Open the APK file and tap "Install"
+2. **Enable Installation from Unknown Sources**
+   - Navigate to Settings → Security on your Android device
+   - Enable "Unknown Sources" (allow installation from sources other than Play Store)
+   - This step varies by Android version and manufacturer
 
-3. **Grant Permissions**
-   - Allow camera access when prompted
-   - Allow location access (if required by Vuforia)
+3. **Install the APK**
+   - Open the downloaded `AR Maze.apk` file using your file manager
+   - Tap "Install" and wait for the installation to complete
+   - You'll see a notification once the installation is finished
 
-4. **Launch the Game**
+4. **Grant Required Permissions**
+   - Allow **Camera** access when prompted (required for AR functionality)
+   - Allow **Location** access if requested (optional, for Vuforia)
+
+5. **Launch the Game**
    - Open the app from your home screen
-   - Point your camera at the AR marker to activate the maze
-   - Start playing!
+   - Allow camera access on first launch
+   - Point your camera at the Vuforia AR marker to activate the maze
+   - Start playing and have fun!
 
 ---
 
